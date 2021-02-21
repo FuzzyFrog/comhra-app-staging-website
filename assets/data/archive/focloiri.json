@@ -1,0 +1,311 @@
+{
+	"focloiri": [{
+			"id": 3,
+			"title": "Aimsir",
+			"data": [{
+				"english": "hailstones",
+				"gaeilge": "clocha sneachta",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "frost",
+				"gaeilge": "sioc",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "freezing (very cold)",
+				"gaeilge": "sioctha/préachta",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "freezing wind",
+				"gaeilge": "gaoth fheanntach",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "freezing point",
+				"gaeilge": "an reophointe",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "day was boiling hot",
+				"gaeilge": "lá ina bhrothall",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "lightning",
+				"gaeilge": "splainc tintrí",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "biting wind",
+				"gaeilge": "gaoth nimhneach",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "break in weather",
+				"gaeilge": "ag deanamh aitill",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "dry spell/drying conditions",
+				"gaeilge": "triomach",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "patch of black clouds/overcast sky",
+				"gaeilge": "duibheagán",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "dark clouds are gathering in the west",
+				"gaeilge": "tá duibheagán ag cruinniú thiar",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "misty",
+				"gaeilge": "braonach",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "drizzly",
+				"gaeilge": "ceobhránach",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "foggy",
+				"gaeilge": "ceomhar",
+				"canuinti": {
+					"connacht": true,
+					"uladh": true,
+					"mumhan": true
+				}
+			}, {
+				"english": "close day",
+				"gaeilge": "lá brothallach",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}, {
+				"english": "spells of",
+				"gaeilge": "paistí",
+				"canuinti": {
+					"connacht": false,
+					"uladh": false,
+					"mumhan": false
+				}
+			}]
+		},
+		{
+			"id": 6,
+			"title": "Carr",
+			"data": [{
+					"english": "Steering Wheel",
+					"gaeilge": "Roth Stiúrtha ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Indicator",
+					"gaeilge": " Treoir Sciatháin ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Horn",
+					"gaeilge": " Adharc   ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Brakes",
+					"gaeilge": "Coscán ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Window wipers",
+					"gaeilge": " Cuimleoir Gaothscátha ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Brake Fluid",
+					"gaeilge": "Leachta Coscán  ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Diesel Tank",
+					"gaeilge": "Umar Díosal ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Glove compartment box",
+					"gaeilge": "Lámhainnbhosca ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Boot",
+					"gaeilge": "Búit ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Wing mirror",
+					"gaeilge": "Scáthán Sciathánach ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Rear view mirror",
+					"gaeilge": "Scáthán siar ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Handbrake",
+					"gaeilge": "Coscán láimhe ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "To apply the brake",
+					"gaeilge": "an coscán a theannadh ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "To release the brake",
+					"gaeilge": "an coscán a scaoileadh ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Gearbox",
+					"gaeilge": "Giarbhosca ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Pump",
+					"gaeilge": "Teannaire ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Insurance disc",
+					"gaeilge": "Diosca Árachais ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				},
+				{
+					"english": "Motor tax",
+					"gaeilge": "Cánach Mótair ",
+					"canuinti": {
+						"connacht": false,
+						"uladh": false,
+						"mumhan": false
+					}
+				}
+			]
+		}
+	]
+}

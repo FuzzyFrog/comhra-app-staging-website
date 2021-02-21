@@ -1,0 +1,116 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606777183752,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.eef98d740c9a61cf6e11.js",
+        "/main-es5.eef98d740c9a61cf6e11.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.ffa9bb4e015925544f91.js",
+        "/polyfills-es5.0290b245fbcca09184ac.js",
+        "/runtime-es2015.cdfb0ddb511f65fdc0a0.js",
+        "/runtime-es5.cdfb0ddb511f65fdc0a0.js",
+        "/styles.be1fd7ca98d236c36214.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/data/archive/comhraite.json",
+        "/assets/data/archive/comhraite_old.json",
+        "/assets/data/archive/focloiri.json",
+        "/assets/data/archive/focloiri_old.json",
+        "/assets/data/comhraite.json",
+        "/assets/data/comhraite_newly_generated.json",
+        "/assets/data/comhraite_old.json",
+        "/assets/data/focloiri.json",
+        "/assets/data/focloiri_newly_generated.json",
+        "/assets/data/focloiri_old.json",
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/favicon-16x16.png",
+        "/assets/icons/favicon-32x32.png",
+        "/assets/icons/iicon-128x128.png",
+        "/assets/icons/iicon-144x144.png",
+        "/assets/icons/iicon-152x152.png",
+        "/assets/icons/iicon-192x192.png",
+        "/assets/icons/iicon-384x384.png",
+        "/assets/icons/iicon-512x512.png",
+        "/assets/icons/iicon-72x72.png",
+        "/assets/icons/iicon-96x96.png",
+        "/assets/icons/owl-icon128x128.png",
+        "/assets/icons/owl-icon192x192.png",
+        "/assets/icons/owl-icon512x512.png",
+        "/assets/icons/owl-icon72x72.png",
+        "/assets/icons/owl-icon96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/data/archive/comhraite.json": "74b733126abbdd8db2d599c1bbf4605f2b8f9258",
+    "/assets/data/archive/comhraite_old.json": "1cb6994bbd55fca8ec484a3f49a6ec7817d95be4",
+    "/assets/data/archive/focloiri.json": "9110bc3b738ef00f2a8bc6f2a90ed5249e497244",
+    "/assets/data/archive/focloiri_old.json": "f37362e397e1f1e627f2fb9502938e19a3ea4b5f",
+    "/assets/data/comhraite.json": "74b733126abbdd8db2d599c1bbf4605f2b8f9258",
+    "/assets/data/comhraite_newly_generated.json": "21e14edc56fe4a16c5ab9e89530b2d3bfedc645d",
+    "/assets/data/comhraite_old.json": "1cb6994bbd55fca8ec484a3f49a6ec7817d95be4",
+    "/assets/data/focloiri.json": "c9f53da3777e0b8afd880173594acde113cad106",
+    "/assets/data/focloiri_newly_generated.json": "d33ada0d9af7fd3a690b5fadc70673dea63454c7",
+    "/assets/data/focloiri_old.json": "f37362e397e1f1e627f2fb9502938e19a3ea4b5f",
+    "/assets/icons/apple-touch-icon.png": "8cc1df162d49afb08ec0b8b2d4423db254dbd2b8",
+    "/assets/icons/favicon-16x16.png": "9ab31db82c7e40f26c102343ac130465a1d294b1",
+    "/assets/icons/favicon-32x32.png": "5ceaf705442244373d64e8151878b78b24487764",
+    "/assets/icons/iicon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/iicon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/iicon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/iicon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/iicon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/iicon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/iicon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/iicon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/owl-icon128x128.png": "72e22c35df89392c78b4360d7f4d6dc745cf4532",
+    "/assets/icons/owl-icon192x192.png": "0c6fea31cfd4c543842853973c00b3c11d8e87a5",
+    "/assets/icons/owl-icon512x512.png": "fc21ece646559d8260d881b343c34f5eca94bb8e",
+    "/assets/icons/owl-icon72x72.png": "8a8e7670e1eedb1abd59b0085cf4b56f34b1e22b",
+    "/assets/icons/owl-icon96x96.png": "6df042c1e546c3a2fbdc015bab68faf4031e3a2f",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "4b12332926da8f25e4437a58da7fd647c1b21f27",
+    "/main-es2015.eef98d740c9a61cf6e11.js": "3e302fc4ae07add61554dd759d0e506280ea0d14",
+    "/main-es5.eef98d740c9a61cf6e11.js": "fd630e4a3da646059b54fb53341475993d520865",
+    "/manifest.webmanifest": "436b0490d83b48ed310092bfb387988798625c4e",
+    "/polyfills-es2015.ffa9bb4e015925544f91.js": "79b2ff5ba292ae9e56f0b43982b9e76d9ddcf285",
+    "/polyfills-es5.0290b245fbcca09184ac.js": "a7bfe75cfe39caaf5bc4c64b35dd9f1f0918a25f",
+    "/runtime-es2015.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.cdfb0ddb511f65fdc0a0.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.be1fd7ca98d236c36214.css": "2cd92068f5a8cb5e6bbc70d091ba4977f979e4f4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
